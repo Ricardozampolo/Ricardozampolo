@@ -5,11 +5,7 @@
 - 🌱 Estou procurando aprimorar meus principais conhecimentos com React
 - 🤔 Estou procurando por uma oportunidade de demonstrar meu trabalho e conhecimento como profissional
 
-<div align="center">
-  <a href="https://github.com/Ricardozampolo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricardozampolo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardozampolo&layout=compact&langs_count=7&theme=dark"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ricardozampolo&show_icons=true&theme=dark)
 
 # Um pouco sobre mim:
   

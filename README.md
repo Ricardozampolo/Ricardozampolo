@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente trabalho como desenvolvedor front-end em desenvolvimento web
 - 🌱 Estou procurando aprimorar meus principais conhecimentos com React
-- 🤔 Estou procurando por uma oportunidade de demonstrar meu trabalho e esforço como profissional
+- 🤔 Estou procurando por uma oportunidade de demonstrar meu trabalho e conhecimento como profissional
 
 <div align="center">
   <a href="https://github.com/Ricardozampolo">

@@ -1,6 +1,5 @@
 # Olá!Eu sou o Ricardo Zampolo Bertolucci Cruz!
 
-
 - 🔭 Atualmente trabalho como desenvolvedor front-end em desenvolvimento web
 - 🌱 Estou procurando aprimorar meus principais conhecimentos com React
 - 🤔 Estou procurando por uma oportunidade de demonstrar meu trabalho e conhecimento como profissional
@@ -10,6 +9,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ricardozampolo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ricardozampolo&layout=compact&langs_count=16&theme=dracula"/>
 </div>
+
+# O que você encontrará no meu Github
+👩‍💻 Projetos de frontend
+
+📑️ Trabalhos feitos dentro e fora da faculdade
+
+🖥️ Alguns códigos aleatórios  
 
 # Um pouco sobre mim:
   
